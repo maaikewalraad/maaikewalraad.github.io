@@ -1,0 +1,11 @@
+baseURL = 'https://maaikewalraad.github.io/'
+languageCode = 'en-us'
+title = 'My Personal Site'
+theme = 'just-me'
+disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
+
+
+[params]
+  author = "Maaike Walraad"
+  author_link = "#"
+
