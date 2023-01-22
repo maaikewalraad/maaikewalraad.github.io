@@ -1,6 +1,5 @@
 ---
 title: "Hello world!"
-date: 2023-01-21T16:31:41+01:00
 draft: true
 ---
 
