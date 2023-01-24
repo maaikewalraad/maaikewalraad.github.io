@@ -1,3 +1,3 @@
 # maaikewalraad.github.io
 
-My personal site! Check it out on [maaikewalraad.nl](here)
+My personal site! Check it out on [here](maaikewalraad.nl)
